@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cue_h.obj-f9d4bd37c4804cc311c249d52f4f1ca2.mesh"
+
+[deps]
+
+files=[ "res://.import/cue_h.obj-f9d4bd37c4804cc311c249d52f4f1ca2.mesh" ]
+
+source_file="res://models/cue_h.obj"
+dest_files=[ "res://.import/cue_h.obj-f9d4bd37c4804cc311c249d52f4f1ca2.mesh", "res://.import/cue_h.obj-f9d4bd37c4804cc311c249d52f4f1ca2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

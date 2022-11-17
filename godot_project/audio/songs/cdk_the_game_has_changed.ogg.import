@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cdk_the_game_has_changed.ogg-84699ee9f2cd8a0765318eb4d4f3e1b5.oggstr"
+
+[deps]
+
+source_file="res://audio/songs/cdk_the_game_has_changed.ogg"
+dest_files=[ "res://.import/cdk_the_game_has_changed.ogg-84699ee9f2cd8a0765318eb4d4f3e1b5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

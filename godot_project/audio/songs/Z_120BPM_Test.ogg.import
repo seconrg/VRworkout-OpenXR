@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Z_120BPM_Test.ogg-74274b91e59f60164a1f59cf873698bc.oggstr"
+
+[deps]
+
+source_file="res://audio/songs/Z_120BPM_Test.ogg"
+dest_files=[ "res://.import/Z_120BPM_Test.ogg-74274b91e59f60164a1f59cf873698bc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

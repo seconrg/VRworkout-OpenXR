@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/04_RockR.ogg-b27f3fd7fc9b7a5f81732af18089bde1.oggstr"
+
+[deps]
+
+source_file="res://audio/songs/04_RockR.ogg"
+dest_files=[ "res://.import/04_RockR.ogg-b27f3fd7fc9b7a5f81732af18089bde1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cdk_like_this.ogg-dacf7feb214de7b5ec3125ded2f5d004.oggstr"
+
+[deps]
+
+source_file="res://audio/songs/cdk_like_this.ogg"
+dest_files=[ "res://.import/cdk_like_this.ogg-dacf7feb214de7b5ec3125ded2f5d004.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

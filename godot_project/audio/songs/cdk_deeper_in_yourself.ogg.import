@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cdk_deeper_in_yourself.ogg-f21070b97191a605bd83a98b2e08a73a.oggstr"
+
+[deps]
+
+source_file="res://audio/songs/cdk_deeper_in_yourself.ogg"
+dest_files=[ "res://.import/cdk_deeper_in_yourself.ogg-f21070b97191a605bd83a98b2e08a73a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
